@@ -1,4 +1,4 @@
-# Dynamic Configuration System
+# CentrioConfig - Dynamic Configuration System
 
 .NET 8 ile geliştirilmiş dinamik konfigürasyon kütüphanesi. Uygulama restart gerektirmeden konfigürasyon değerlerini güncelleyebilir ve yönetebilir.
 
